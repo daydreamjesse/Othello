@@ -1,0 +1,6 @@
+V1.0.0
+Release
+V2.0.0
+Added single player support with a simple computer-controlled opponent
+V2.0.1
+Fixed an issue where the computer would select out-of-bound array locations
