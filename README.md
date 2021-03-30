@@ -1,4 +1,6 @@
 # Othello
-A text-based version of the board game Othello made in Python. 
-DISCLAIMER: This was originally written in Python 3.0 and may not be compatible with later versions.
-[![Run on Repl.it](https://repl.it/badge/github/daydreamjesse/Othello)](https://repl.it/github/daydreamjesse/Othello)
+A text-based version of the board game Othello made in Python, built for my high-school programming class.
+
+If you're wondering why the column titles are stored in a file instead of a variable (since it's a very simple string), the primary constraint for this assignment was to use file-handling.
+
+You can play this on [Replit](https://replit.com/@grahamhub/othello).
